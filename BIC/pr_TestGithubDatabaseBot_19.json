@@ -1,0 +1,16 @@
+{
+  "affectedPackages": [
+    {
+      "name": "magneto/module-commerce",
+      "level": "MAJOR"
+    },
+    {
+      "name": "magneto/module-framework",
+      "level": "MINOR"
+    }
+  ],
+  "approvalTickets": [
+    "https://jira.corp.magento.com/browse/MC-31401",
+    "https://jira.corp.magento.com/browse/MC-32627"
+  ]
+}
